@@ -13,6 +13,7 @@ Hello! I am an independent security researcher, always blogging about stuff I do
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=1nf3rn0314&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=1nf3rn0314&icon=0&color=3)](https://visitcount.itsvg.in)
+<!-- [![](https://komarev.com/ghpvc/?username=1nf3rn0314&icon=0&color=3)](https://visitcount.itsvg.in) -->
+![GitHub followers](https://img.shields.io/github/followers/1nf3rn0314)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
