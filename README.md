@@ -1,18 +1,41 @@
-# About Me:
-Hello! I am an independent security researcher, always blogging about stuff I do (and break!).
+# // Saptarshi Nanda
 
-# Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saptarshi-nanda) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@1nf3rn0314) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/_1nf3rn0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saptarshinanda@gmail.com)
+> Hardware and IoT Security
 
-# TryHackMe Profile
-![](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4611830)
+## About Me
 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+- **Learning:** Rust
 
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=1nf3rn0314&theme=nord&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=1nf3rn0314&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=1nf3rn0314&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## Tech Stack
 
-![GitHub followers](https://img.shields.io/github/followers/1nf3rn0314)
+**Languages:**  
+![C](https://img.shields.io/badge/C-a3b234?style=for-the-badge) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-34aeb2?style=for-the-badge)
+
+**Tools & DevOps:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## TryHackMe Badge
+
+![TryHackMe](assets/badge.svg)
+
+## GitHub Stats
+
+<div align="center">
+
+![Saptarshi Nanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1nf3rn0314&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1nf3rn0314&theme=tokyonight&hide_border=true)
+
+</div>
+
+## Featured Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Zeus 2.4** | Portable Wireless Security Audit Tool | [View →](https://github.com/1nf3rn0314/zeus_2.4) |
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saptarshi-nanda)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://1nf3rn0314.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1nf3rn0314@proton.me)
